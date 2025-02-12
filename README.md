@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Luismi
 
-<!--
-**luiismi22/luiismi22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí
+Soy un desarrollador apasionado por la tecnología y el código limpio. Disfruto trabajando en proyectos open source, automatización y desarrollo eficiente.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías
+- **Lenguajes:**  Java
+- **Herramientas:**  Docker, Linux...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 📫 Conéctate conmigo
+- 📧 luismiluismpp@mail.com
+- 🐦 luiismi22_
+- 💼 Luis Miguel Prieto Pareja
+¡Gracias por visitar mi perfil! 😊
