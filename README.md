@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Luismi
 
-## 🚀 Sobre mí
+## Sobre mí
 Soy un desarrollador apasionado por la tecnología y el código limpio. Disfruto trabajando en proyectos open source, automatización y desarrollo eficiente.
 
 ## 🛠️ Tecnologías
