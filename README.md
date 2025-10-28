@@ -11,6 +11,5 @@ Soy un desarrollador apasionado por la tecnología y el código limpio. Disfruto
 
 ## 📫 Conéctate conmigo
 - 📧 luismiluismpp@mail.com
-- 🐦 luiismi22_
 - 💼 Luis Miguel Prieto Pareja
 ¡Gracias por visitar mi perfil! 😊
